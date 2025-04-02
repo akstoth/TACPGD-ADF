@@ -29,20 +29,3 @@ Repositório dedicado ao desenvolvimento do projeto da disciplina de Sistemas de
 | Monitoramento  | SCADA para GD, Protocolo MODBUS           |
 | Normativas     | NBR 16149, IEEE 1547-2018                 |
 
-## 🗂️ Estrutura do Projeto
-
-```plaintext
-GD_Project/
-├── Fase1_Modelagem_FV/
-│   ├── Modelos_Simulink/
-│   ├── Dados_Experimentos/
-│   └── Relatorio_EP1.pdf
-├── Fase2_Controle_Inversor/
-├── Fase3_Conversor_CC-CC/
-├── Fase4_Sistema_MPPT/
-├── Fase5_Integracao_Total/
-├── Fase6_PLL_AntiIlhamento/
-└── Documentacao/
-    ├── Normativas/
-    └── Artigos_Referencia/
-```
