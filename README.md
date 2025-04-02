@@ -26,6 +26,5 @@ Repositório dedicado ao desenvolvimento do projeto da disciplina de Sistemas de
 | Simulação      | MATLAB/Simulink, PLECS, PSIM              |
 | Controle       | PWM, Vetorial dq, Modo Deslizante         |
 | Power Hardware | Inversores monofásicos, Conversores Boost |
-| Monitoramento  | SCADA para GD, Protocolo MODBUS           |
 | Normativas     | NBR 16149, IEEE 1547-2018                 |
 
